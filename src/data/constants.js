@@ -250,7 +250,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://iit.tn/wp-content/uploads/2024/01/Logo-IIT-blanc_.png",
     school: "International Institute of Technology, Sfax, Tunisia",
     date: "2020 - 2023",
     grade: "17.5/20",
@@ -259,7 +259,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://ipeis.rnu.tn/stylesheets/images/logo-header.png",
     school: "Preparatory Institute for Engineering Studies, Sfax, Tunisia",
     date: "2018 - 2020",
     desc: "I completed my pre-engineering cycle which was a 2-year program in physical mathematics ",
@@ -267,7 +267,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://scontent.ftun1-2.fna.fbcdn.net/v/t39.30808-6/468640687_10161915542129707_2047993441001276454_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=0KgiEgyXLiwQ7kNvgGlvS3G&_nc_oc=AdgCoEA2nYHbadb8syC0hbtkye2KszJ-Bj6lW8uJfvpdjQ8XA4ZwZkqSrECedhji7J8&_nc_zt=23&_nc_ht=scontent.ftun1-2.fna&_nc_gid=ABEmuDEmm5j0yFtGzyfQF_V&oh=00_AYAKGvl9Bod_0_V7QYbbzr_SMbT1mn36SlVJImiaKmH9MA&oe=67B3969C",
     school: "15 November 1955 High School, Sfax, Tunisia",
     date: "2014 - 2018",
     grade: "13.07/20",
