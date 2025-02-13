@@ -12,11 +12,25 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to='/'>
-          <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
-        </NavLogo>
+      <NavLogo to='/'>
+        <a 
+          style={{ 
+            display: "flex", 
+            alignItems: "center", 
+            color: "white", 
+            marginBottom: '20px', 
+            cursor: 'pointer', 
+            fontFamily: 'Arial, sans-serif', // Optional: Add a font for better styling
+            fontSize: '1.5rem' // Optional: Adjust font size
+          }}
+        >
+          <span style={{ color: 'red', fontWeight: 'bold', marginRight: '5px' }}>&lt;</span>
+          <span style={{ color: 'white', fontWeight: 'bold', marginRight: '5px' }}>Ahmed</span>
+          <span style={{ color: 'red', margin: '0 5px', fontWeight: 'bold' }}>/</span>
+          <span style={{ color: 'white', fontWeight: 'bold', marginLeft: '5px' }}>Ammar</span>
+          <span style={{ color: 'red', fontWeight: 'bold', marginLeft: '5px' }}>&gt;</span>
+        </a>
+      </NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {
             setIsOpen(!isOpen)
