@@ -284,7 +284,7 @@ export const projects = [
     description:
       "- Advanced Dashboard with statics and sharts to manage a point of sale perfectly !",
     image:
-      "",
+      "https://imgs.search.brave.com/cmMHjqwmLJEuhRAU8Ci2ijRBgeqvivqvJZmbuRLmjYc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2ZkL1Rlcm1pbmFs/ZV9QT1NfSE9SRUNB/MTMuanBn",
     tags: [
       "MVC",
       "XML",
@@ -305,7 +305,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows administrative agents to gather all employees, suppliers and transactions data and store them into database. ",
     image:
-      "",
+      "https://imgs.search.brave.com/9rSP7-CIrO9COZLOYvRIe5EXBrYkPrfB60wLv9NgBQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzE4LzcyLzg0/LzM2MF9GXzExODcy/ODQyNF9yV3EzaWZr/NkZzWklUWnNtZDNQ/WUVTZWZSMHh3dHFz/YS5qcGc",
     tags: ["PHP", "CSS", "HTML", "Express Js", "Redux"],
     category: "web app",
     github: "",
@@ -317,9 +317,9 @@ export const projects = [
     title: "Invoice Management System",
     date: "February 2025",
     description:
-      "Designed and developed the ",
+      "Designed and developed a system to automate the generation of printable invoices and Internal Estimates .",
     image:
-      "",
+      "https://imgs.search.brave.com/HYr5J2xpf8SgRFrctBoLIJewZWCdXso4T2oZMD5jDxk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/MjM4YmNhYjk0MDI4/MzY0MDFjMmExZGEv/NjU4M2YwNTg5NDg5/MmJjZjMzNjhjYWM5/X2ludm9pY2UlMjBt/YW5hZ2VtZW50LnBu/Zw",
     tags: [
       "PHP",
       "HTML",
@@ -339,7 +339,7 @@ export const projects = [
     description:
       "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
     image:
-      "",
+      "https://imgs.search.brave.com/KBj8bpLTEWAzpz7o7qPg37yHpWvNZcjTatz5PBmm7VY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9m/YWNlLXJlY29nbml0/aW9uLXBlcnNvbmFs/LWlkZW50aWZpY2F0/aW9uLWNvbGxhZ2Vf/MjMtMjE1MDE2NTYw/OC5qcGc_c2VtdD1h/aXNfaHlicmlk",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
     github: "",
