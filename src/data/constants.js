@@ -308,11 +308,9 @@ export const projects = [
       "",
     tags: ["PHP", "CSS", "HTML", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/ahmeedammar",
+    github: "",
     webapp: "",
-    member: [
-      
-    ],
+    
   },
   {
     id: 1,
