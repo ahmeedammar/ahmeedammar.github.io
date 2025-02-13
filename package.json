@@ -1,7 +1,7 @@
 {
   "name": "ahmed-ammar-portfolio",
   "version": "0.1.0",
-  "homepage": "https://ahmeedammar.github.io",
+  "homepage": "https://ahmedammar.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
