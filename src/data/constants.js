@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ahmeedammar",
   resume:
-    "https://www.dropbox.com/scl/fi/yjmw6hnhvdlpcu4igqx5h/CV_Ahmed-ASF.pdf?rlkey=9um4l48aatwb9419fhwvivm0m&st=4hg4gge7&dl=0",
+    "https://www.dropbox.com/scl/fi/awbbiajywz5w6s0rnqiei/CV_Ahmed-Ammar.pdf?rlkey=86gag5m3lcl9xuwki06zotz0j&st=5jcj1734&dl=0",
   linkedin: "https://www.linkedin.com/in/ahmeedammar/",
   insta: "https://www.instagram.com/ammar.ahmeed/",
   facebook: "https://www.facebook.com/Ahmed.Ammar1290/",
